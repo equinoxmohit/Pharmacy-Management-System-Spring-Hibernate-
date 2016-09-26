@@ -1,1 +1,1 @@
-# Pharmac-Management-System-Spring-Hibernate-
+# Pharmacy-Management-System-Spring-Hibernate-
